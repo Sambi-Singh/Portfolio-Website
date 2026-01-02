@@ -41,4 +41,9 @@ so bubbly, fun, happy, etc. To acheive this look I did the following
   border-radius: 10%;
  }
 
+ .card-img-top {
+  height: 200px;
+  object-fit: cover;
+}
+
  
